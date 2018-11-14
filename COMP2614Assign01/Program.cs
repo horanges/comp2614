@@ -26,7 +26,7 @@ namespace COMP2614Assign01
             Console.WriteLine("{0,8} {1,8} {2,8}", "number", "square", "cube");
             Console.WriteLine(new string('-', COLUMN_WIDTH));
 
-            // displays even numbers from 0 to 20 and their corresponding squares and cubes
+            // calculates even numbers from 0 to 20 and their corresponding squares and cubes
             while (number <= UPPER_LIMIT)
             {
                 square = number * number;
@@ -40,7 +40,8 @@ namespace COMP2614Assign01
 
                 number += 2;
             }
-
+            
+            // displays results
             Console.WriteLine(new string('-', COLUMN_WIDTH));
             Console.WriteLine("{0,8} {1,8:N0} {2,8:N0}", numberSum, squareSum, cubeSum);
         }
