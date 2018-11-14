@@ -1,0 +1,14 @@
+C:\Users\Tina\source\repos\COMP2614Assign02\COMP2614Assign02\bin\Debug\COMP2614Assign02.exe.config
+C:\Users\Tina\source\repos\COMP2614Assign02\COMP2614Assign02\bin\Debug\COMP2614Assign02.exe
+C:\Users\Tina\source\repos\COMP2614Assign02\COMP2614Assign02\bin\Debug\COMP2614Assign02.pdb
+C:\Users\Tina\source\repos\COMP2614Assign02\COMP2614Assign02\obj\Debug\COMP2614Assign02.csprojAssemblyReference.cache
+C:\Users\Tina\source\repos\COMP2614Assign02\COMP2614Assign02\obj\Debug\COMP2614Assign02.csproj.CoreCompileInputs.cache
+C:\Users\Tina\source\repos\COMP2614Assign02\COMP2614Assign02\obj\Debug\COMP2614Assign02.exe
+C:\Users\Tina\source\repos\COMP2614Assign02\COMP2614Assign02\obj\Debug\COMP2614Assign02.pdb
+E:\Documents\Courses\COMP 2614\Week 2\COMP2614Assign02\COMP2614Assign02\bin\Debug\COMP2614Assign02.exe.config
+E:\Documents\Courses\COMP 2614\Week 2\COMP2614Assign02\COMP2614Assign02\bin\Debug\COMP2614Assign02.exe
+E:\Documents\Courses\COMP 2614\Week 2\COMP2614Assign02\COMP2614Assign02\bin\Debug\COMP2614Assign02.pdb
+E:\Documents\Courses\COMP 2614\Week 2\COMP2614Assign02\COMP2614Assign02\obj\Debug\COMP2614Assign02.csprojAssemblyReference.cache
+E:\Documents\Courses\COMP 2614\Week 2\COMP2614Assign02\COMP2614Assign02\obj\Debug\COMP2614Assign02.csproj.CoreCompileInputs.cache
+E:\Documents\Courses\COMP 2614\Week 2\COMP2614Assign02\COMP2614Assign02\obj\Debug\COMP2614Assign02.exe
+E:\Documents\Courses\COMP 2614\Week 2\COMP2614Assign02\COMP2614Assign02\obj\Debug\COMP2614Assign02.pdb
