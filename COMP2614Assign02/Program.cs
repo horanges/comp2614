@@ -24,7 +24,7 @@ namespace COMP2614Assign02
             const int CONTACTS_LENGTH = 3;
 
             // Sets console title
-            Console.Title = "COMP2614 - Assignment 2 - A00947294";
+            Console.Title = "COMP2614 - Assignment 2 - A00000000";
 
             Console.WriteLine("Contact Information");
             Console.WriteLine(new string('-', LINE_LENGTH));
