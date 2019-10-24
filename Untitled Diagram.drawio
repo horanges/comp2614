@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-23T23:13:04.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="D1M4dqcVtYet00oNvak8" version="12.1.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-24T00:45:12.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="Jcc82wdHwJxnuvS_lYZn" version="12.1.4" type="github" pages="1">
   <diagram id="SP63w3L9v3msSkd81RSD" name="Page-1">
     <mxGraphModel dx="2508" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -339,14 +339,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oMCxOILZwtbvPG_adfYq-1" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;span&gt;Destination&lt;/span&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;span&gt;Target&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;10.0.0.0/16&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;local&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;0.0.0.0/0&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;igw-id&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
+        <mxCell id="oMCxOILZwtbvPG_adfYq-1" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;span&gt;&lt;b&gt;Destination&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;span&gt;&lt;b&gt;Target&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;10.0.0.0/16&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;local&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;0.0.0.0/0&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;igw-id&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
           <mxGeometry x="-20" y="323" width="180" height="140" as="geometry"/>
         </mxCell>
-        <mxCell id="DNbWIVDoC287xexCsAdM-1" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;span&gt;Destination&lt;/span&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;span&gt;Target&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;10.0.0.0/16&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;local&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;0.0.0.0/0&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;nat-1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+        <mxCell id="DNbWIVDoC287xexCsAdM-1" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;span&gt;&lt;b&gt;Destination&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;span&gt;&lt;b&gt;Target&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;10.0.0.0/16&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;local&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;0.0.0.0/0&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;nat-1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
           <mxGeometry x="-20" y="557" width="180" height="140" as="geometry"/>
         </mxCell>
         <mxCell id="DNbWIVDoC287xexCsAdM-2" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;span&gt;Destination&lt;/span&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;span&gt;Target&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;10.0.0.0/16&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;local&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;0.0.0.0/0&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;nat-2&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
           <mxGeometry x="1240" y="550" width="180" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="DNbWIVDoC287xexCsAdM-3" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;&lt;b&gt;Source&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;span&gt;&lt;b&gt;Protocol&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Port&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fake IP&lt;/td&gt;&lt;td&gt;TCP&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Destination&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Protocol&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Port&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;0.0.0.0/0&lt;/td&gt;&lt;td&gt;all&lt;/td&gt;&lt;td&gt;all&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="323" width="180" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="DNbWIVDoC287xexCsAdM-4" value="Security Group" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="296.5" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="DNbWIVDoC287xexCsAdM-5" value="Security Group" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="531.5" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="DNbWIVDoC287xexCsAdM-6" value="Routing Table" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="25" y="296.5" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="DNbWIVDoC287xexCsAdM-7" value="Routing Table" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="25" y="537" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="DNbWIVDoC287xexCsAdM-8" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;&lt;b&gt;Source&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;span&gt;&lt;b&gt;Protocol&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Port&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10.0.0.0/23&lt;/td&gt;&lt;td&gt;TCP&lt;/td&gt;&lt;td&gt;5432&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="557" width="180" height="140" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
